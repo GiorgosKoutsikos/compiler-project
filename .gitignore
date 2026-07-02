@@ -1,0 +1,16 @@
+# Bison & Flex outputs
+pasc.tab.c
+pasc.tab.h
+lex.yy.c
+
+# GCC output binary
+pasc
+
+# Object files (just in case)
+*.o
+
+# Editor/system files (optional)
+*~
+
+# VSCode settings
+.vscode/
